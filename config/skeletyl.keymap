@@ -152,7 +152,7 @@
             >;
         };
 
-        mouse_ctrls - {
+        mouse_ctrls {
             bindings = <
     &none       &none       &none       &none           &msc SCRL_UP          &none      &none               &mkp MCLK            &none                  &none
     &kp LGUI    &kp LALT    &kp LCTRL   &kp LSHFT       &msc SCRL_DOWN        &mkp LCLK  &mmv MOVE_LEFT      &mmv MOVE_DOWN       &mmv MOVE_UP           &mmv MOVE_RIGHT
